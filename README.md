@@ -12,3 +12,10 @@ mvn clean install
 java -jar target/quadraticFormula-1.0-SNAPSHOT.jar
 ```
 Open up localhost:8000 in your browser and check out the app!
+
+
+Also you can try out running the angular unit tests by doing the following from the root folder.
+```console
+cd public
+npm test
+```
