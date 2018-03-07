@@ -1,7 +1,7 @@
 # QuadraticCalculator
 Quadratic equation calculator built using Angular and Java.
 
-First start the angular server (make sure you have npm installed).
+First start the Karma server (make sure you have npm installed).
 ```console
 cd public
 npm start
